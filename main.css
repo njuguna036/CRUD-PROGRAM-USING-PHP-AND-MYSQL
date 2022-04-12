@@ -1,0 +1,14 @@
+body{
+    background-color: powderblue;
+    margin-left: 4px;
+}
+button{
+    background-color: rgb(0, 255, 64);
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 1050px;
+    font-size:x-large;
+}
